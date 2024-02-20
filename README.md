@@ -3,10 +3,10 @@
 2023:
 
 [TEXTure: Text-Guided Texturing of 3D Shapes](https://arxiv.org/abs/2302.01721)
-[code](https://github.com/TEXTurePaper/TEXTurePaper)
+[[code]](https://github.com/TEXTurePaper/TEXTurePaper)
 
 [Text2Tex: Text-driven Texture Synthesis via Diffusion Models](https://arxiv.org/abs/2303.11396)
-[code](https://github.com/daveredrum/Text2Tex)
+[[code]](https://github.com/daveredrum/Text2Tex)
 
 2022:
 
