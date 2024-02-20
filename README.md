@@ -20,3 +20,11 @@ CLIP-Mesh: Generating textured meshes from text using pretrained image-text mode
 
 Text2Mesh: Text-Driven Neural Stylization for Meshes[[pdf]](https://arxiv.org/abs/2112.03221)
 [[code]](https://github.com/threedle/text2mesh)
+
+2020:
+
+Deep Geometric Texture Synthesis.[[pdf]](https://arxiv.org/pdf/2007.00074.pdf)
+
+
+2017:
+Learning Detail Transfer based on Geometric Features.[[pdf]](https://diglib.eg.org/xmlui/bitstream/handle/10.1111/cgf13132/v36i2pp361-373.pdf?sequence=1&isAllowed=y)
