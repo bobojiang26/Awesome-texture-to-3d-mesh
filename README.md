@@ -38,7 +38,9 @@ Deep Geometric Texture Synthesis.[[pdf]](https://arxiv.org/pdf/2007.00074.pdf)
 
 
 2017:
+
 Learning Detail Transfer based on Geometric Features.[[pdf]](https://diglib.eg.org/xmlui/bitstream/handle/10.1111/cgf13132/v36i2pp361-373.pdf?sequence=1&isAllowed=y)
 
 2012:
+
 Non-parametric Texture Transfer Using MeshMatch.[[pdf]](https://danbgoldman.com/misc/meshmatch/meshmatch.pdf)
