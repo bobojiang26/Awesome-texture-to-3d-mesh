@@ -21,8 +21,6 @@ TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decompo
 CLIP-Mesh: Generating textured meshes from text using pretrained image-text models[[pdf]](https://arxiv.org/abs/2203.13333)
 [[code]](https://github.com/NasirKhalid24/CLIP-Mesh)
 
-Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures.[[pdf]](https://arxiv.org/abs/2211.07600)
-[[code]](https://github.com/eladrich/latent-nerf)
 
 Magic3D: High-Resolution Text-to-3D Content Creation.[[pdf]](https://arxiv.org/abs/2211.10440)
 [[code]](https://github.com/chinhsuanwu/dreamfusionacc)
