@@ -42,3 +42,21 @@ Learning Detail Transfer based on Geometric Features.[[pdf]](https://diglib.eg.o
 2012:
 
 Non-parametric Texture Transfer Using MeshMatch.[[pdf]](https://danbgoldman.com/misc/meshmatch/meshmatch.pdf)
+
+
+Testset:
+
+Concept Combination:[Wagon dog](https://sketchfab.com/3d-models/wagon-dog-0a4a4bbc0d9b4425aa7dee8b0e50fc4a)
+
+Animal:[Lion](https://sketchfab.com/3d-models/lion-f94d39b60c5846148b63b523c8e85ed4)
+
+Furniture:[Modern sofa](https://sketchfab.com/3d-models/modern-sofa-ac92f6e97eaa43c4ad6cb8f7c65ac43f)
+
+Game character:[Demon hunter](https://sketchfab.com/3d-models/demon-hunter-ff6a14371bc347d9a1526f5e64b29327)
+
+Realistic human body:[Scan human](https://sketchfab.com/3d-models/3d-scan-man-1-ad42febfaeb64aa0992e804acc9e7ccd)
+
+Building:[Futuristic building](https://sketchfab.com/3d-models/futuristic-building-e73f9bb9981d469c8a8ccdc1f168faad)
+
+
+
