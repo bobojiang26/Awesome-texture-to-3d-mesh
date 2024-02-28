@@ -61,4 +61,14 @@ Realistic human body:[Scan human](https://sketchfab.com/3d-models/3d-scan-man-1-
 Building:[Futuristic building](https://sketchfab.com/3d-models/futuristic-building-e73f9bb9981d469c8a8ccdc1f168faad)
 
 
+<br><br>
+**Experiments**
+
+[Google Doc](https://docs.google.com/document/d/19jMw7_09a0VxJVR-vOGbm0YV_f9e1ml9o94QcVnDBv8/edit?usp=sharing)
+
+**Notes**
+
+[Google Doc](https://docs.google.com/document/d/1PzV7qpY6EDzB1clKre63EyOy2BNNGdu7dIuz62p6zds/edit?usp=sharing)
+
+
 
