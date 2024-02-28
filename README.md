@@ -44,9 +44,9 @@ Learning Detail Transfer based on Geometric Features.[[pdf]](https://diglib.eg.o
 Non-parametric Texture Transfer Using MeshMatch.[[pdf]](https://danbgoldman.com/misc/meshmatch/meshmatch.pdf)
 
 
+<br><br>
 
-
-Testset:
+**Testset:**
 
 Concept Combination:[Wagon dog](https://sketchfab.com/3d-models/wagon-dog-0a4a4bbc0d9b4425aa7dee8b0e50fc4a)
 
