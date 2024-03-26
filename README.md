@@ -1,5 +1,35 @@
 # Awesome-texture-to-3d-mesh
 
+2024:
+
+Decorate3D: Text-Driven High-Quality Texture Generation for Mesh Decoration in the Wild[[pdf]](https://decorate3d.github.io/Decorate3D/static/Decorate3D.pdf)
+[[code]](https://github.com/Decorate3D/Decorate3D)
+
+Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering[[pdf]](https://kim-youwang.github.io/media/paint-it/paint-it.pdf)
+[[code]](https://github.com/postech-ami/paint-it)
+
+TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion[[pdf]](https://arxiv.org/pdf/2401.09416.pdf)
+
+HexaGen3D: StableDiffusion is just one step away from Fast and Diverse Text-to-3D Generation[[pdf]](https://arxiv.org/pdf/2401.07727.pdf)
+
+Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior[[pdf]](https://liuff19.github.io/Sherpa3D/static/pdfs/Sherpa3D_paper.pdf)
+[[code]](https://github.com/liuff19/Sherpa3D)
+
+Interactive Text-to-texture Synthesis via Unified Depth-aware Inpainting[[pdf]](https://arxiv.org/pdf/2403.11878.pdf)
+[[code]](https://github.com/ashawkey/InTeX)
+
+FlashTex: Fast Relightable Mesh Texturing with LightControlNet[[pdf]](https://arxiv.org/pdf/2402.13251.pdf)
+
+TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation[[pdf]](https://arxiv.org/pdf/2403.12906.pdf)
+[[code]](https://github.com/ggxxii/texdreamer)
+
+Single Mesh Diffusion Models with Field Latents for Texture Generation[[pdf]](https://arxiv.org/pdf/2312.09250.pdf)
+[[code]](https://github.com/google-research/google-research/tree/master/mesh_diffusion)
+
+CTGAN: Semantic-guided Conditional Texture Generator for 3D Shapes[pdf](https://arxiv.org/pdf/2402.05728.pdf)
+
+ControlDreamer: Stylized 3D Generation with Multi-View ControlNet[[pdf]](https://arxiv.org/pdf/2312.01129.pdf)
+
 2023:
 
 TEXTure: Text-Guided Texturing of 3D Shapes[[pdf]](https://arxiv.org/abs/2302.01721)
@@ -13,6 +43,25 @@ Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures[[pdf]](https:/
 
 Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models[[pdf]](https://arxiv.org/abs/2212.14704)
 
+TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models[[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_TexFusion_Synthesizing_3D_Textures_with_Text-Guided_Image_Diffusion_Models_ICCV_2023_paper.pdf)
+
+Breathing New Life into 3D Assets with Generative Repainting[[pdf]](https://arxiv.org/pdf/2309.08523.pdf)
+[[code]](https://github.com/kongdai123/repainting_3d_assets)
+
+Text-Guided Texturing by Synchronized Multi-View Diffusion[[pdf]](https://arxiv.org/pdf/2311.12891.pdf)
+
+Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models[[pdf]](https://arxiv.org/pdf/2312.13913.pdf)
+[[code]](https://github.com/OpenTexture/Paint3D)
+
+PaintHuman: Towards High-fidelity Text-to-3D Human Texturing via Denoised Score Distillation[[pdf]](https://arxiv.org/pdf/2310.09458.pdf)
+
+DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaption by Combining 3D GANs and Diffusion Priors[[pdf]](https://arxiv.org/pdf/2312.16837.pdf)
+[[code]](https://github.com/youngLBW/DiffusionGAN3D)
+
+Disentangled Clothed Avatar Generation from Text Descriptions[[pdf]](https://arxiv.org/pdf/2312.05295.pdf)
+[[code]](https://github.com/shanemankiw/so-smpl)
+
+
 2022:
 
 TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition[[pdf]](https://arxiv.org/abs/2210.11277)
@@ -24,6 +73,9 @@ CLIP-Mesh: Generating textured meshes from text using pretrained image-text mode
 
 Magic3D: High-Resolution Text-to-3D Content Creation.[[pdf]](https://arxiv.org/abs/2211.10440)
 [[code]](https://github.com/chinhsuanwu/dreamfusionacc)
+
+SEEAvatar: Photorealistic Text-to-3D Avatar Generation with Constrained Geometry and Appearance[[pdf]](https://arxiv.org/pdf/2312.08889.pdf)
+[[code]](https://github.com/yoxu515/SEEAvatar)
 
 2021:
 
