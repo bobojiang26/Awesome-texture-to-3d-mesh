@@ -2,6 +2,10 @@
 
 2024:
 
+DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models[[pdf]](https://arxiv.org/pdf/2405.17176)
+[[code]](https://github.com/zzzyuqing/DreamMat)
+
+
 Decorate3D: Text-Driven High-Quality Texture Generation for Mesh Decoration in the Wild[[pdf]](https://decorate3d.github.io/Decorate3D/static/Decorate3D.pdf)
 [[code]](https://github.com/Decorate3D/Decorate3D)
 
