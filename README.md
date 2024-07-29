@@ -2,6 +2,32 @@
 
 2024:
 
+TexRO: Generating Delicate Textures of 3D Models by Recursive Optimization[[pdf]](https://arxiv.org/pdf/2403.15009)
+
+GenesisTex: Adapting Image Denoising Diffusion to Texture Space[[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_GenesisTex_Adapting_Image_Denoising_Diffusion_to_Texture_Space_CVPR_2024_paper.pdf)
+
+MatAtlas: Text-driven Consistent Geometry Texturing and Material Assignment[[pdf]](https://arxiv.org/pdf/2404.02899)
+
+3DStyleGLIP: Part-Tailored Text-Guided 3D Neural Stylization[[pdf]](https://arxiv.org/pdf/2404.02634)
+
+Make-it-Real: Unleashing Large Multimodal Model for Painting 3D Objects with Realistic Materials[[pdf]](https://arxiv.org/pdf/2404.16829)
+
+MaPa: Text-driven Photorealistic Material Painting for 3D Shapes[[pdf]](https://dl.acm.org/doi/fullHtml/10.1145/3641519.3657504?casa_token=3kQzkSGt4PQAAAAA:ScO-bayLy6bzzCvrZGAjeZ4fdjAl1Hq9eueazu_RNxBIIkSwc8Lv4m3ag2_cPIhJVqMWVe4CEQo)
+
+CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3658146)
+
+TexOct: Generating Textures of 3D Models with Octree-based Diffusion[[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_TexOct_Generating_Textures_of_3D_Models_with_Octree-based_Diffusion_CVPR_2024_paper.pdf)
+
+Consistency2: Consistent and Fast 3D Painting with Latent Consistency Models[[pdf]](https://arxiv.org/pdf/2406.11202)
+
+Meta 3D TextureGen: Fast and Consistent Texture Generation for 3D Objects[[pdf]](https://arxiv.org/pdf/2407.02430)
+
+Diffusion Texture Painting[[pdf]](https://dl.acm.org/doi/fullHtml/10.1145/3641519.3657458)
+
+ConTEXTure: Consistent Multiview Images to Texture[[pdf]](https://arxiv.org/pdf/2407.10558)
+
+VCD-Texture: Variance Alignment based 3D-2D Co-Denoising for Text-Guided Texturing[[pdf]](https://arxiv.org/pdf/2407.04461)
+
 DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models[[pdf]](https://arxiv.org/pdf/2405.17176)
 [[code]](https://github.com/zzzyuqing/DreamMat)
 
